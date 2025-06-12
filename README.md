@@ -1,5 +1,9 @@
 # Digital Voting System with Positional Ranking
 
+
+![{27412F07-1791-46D9-9F6E-631A6BD6FBFE}](https://github.com/user-attachments/assets/6b142d10-a3ad-4078-ae94-79f601b75548)
+
+
 This repository contains the design and simulation files for a complex digital voting system built entirely from standard TTL logic integrated circuits. The system is designed for a five-contestant election and implements advanced logic to determine not only the vote counts but also the second and third-place winners in real-time.
 
 This project serves as a comprehensive academic exercise in digital systems design, demonstrating the practical application of synchronous counters, combinational logic, and arithmetic circuits to solve a real-world problem.
